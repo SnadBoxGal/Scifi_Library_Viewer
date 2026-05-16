@@ -1,6 +1,5 @@
 # Scifi_Library_Viewer
 website/s for da scifi library viewer. 
-- [x] test 
 
 Planned Features for the website
 - [] Public side viewer 
